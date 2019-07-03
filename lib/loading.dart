@@ -67,7 +67,7 @@ class _LoadingPageState extends State<LoadingPage> {
               bottom: 10.0,
               child: Text(
                 text,
-                style: TextStyle(fontSize: 16.0, color: Colors.green),
+                style: TextStyle(fontSize: 16.0, color: Colors.green,fontWeight: FontWeight.normal),
               )),
         ],
       ),
